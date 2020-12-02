@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+		"phpoffice/phpspreadsheet": "^1.13"
+    }
+}
